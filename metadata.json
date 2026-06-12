@@ -1,0 +1,10 @@
+{
+  "name": "ISP SaaS ERP",
+  "description": "Enterprise-grade SaaS ERP for Internet Service Providers with billing, MikroTik CRM, technician portals, support helpdesks, network monitoring, and server-side assistant integrations.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
